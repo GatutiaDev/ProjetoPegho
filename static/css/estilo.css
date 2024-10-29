@@ -1,0 +1,180 @@
+header {
+    background-color: #bdbdbd;
+    width: 100%;
+    margin: 20px 0 20px 0;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+
+body {
+    background-color: #dcdcdc;
+    width: 80%;
+    margin: 2% auto;
+    margin bottom: 20px;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 10px 14px black;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.centralizar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.envio {
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+    align-self: center;
+    width: 70%;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.info{
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 14px 8px rgba(0,0,0,0.1);
+}
+.pegho{
+    margin: auto;
+    padding: auto;
+    background-color: red;
+    border-radius: 20px;
+    box-shadow: 14px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 50%;
+    height: 50px;
+    font-style: italic;
+}
+
+.buttons{
+    background-color:blue;
+    border-radius: 20px;
+    box-shadow: 10px 8px rgba(0,0,0,0.1);
+    text-decoration: none;
+    text-align: center;
+    width: 40%;
+    height: 40px;
+    margin:10px 10px 10px 100px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+}
+
+.icons{
+    height:200px;
+
+}
+il{
+
+}
+
+
+img {
+     margin: 10px 14% 10px 14%;
+     width: 20%;
+}
+
+.liststyle{
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 20px;
+    box-shadow: 8px 5px ;
+    padding: 25px;
+    margin: 20px;
+    list-style-type: none;
+}
+
+.detail{
+    background-color: blue;
+    border-radius: 20px;
+    box-shadow: 10px 8px rgba(0,0,0,0.1);
+    text-decoration: none;
+    width: 50%;
+    height: 40px;
+    margin: 40px 25% 30px 25%;
+}
+
+.bdetail{
+    position: absolute;
+    left: 69%;
+}
+.bupdate{
+    position: absolute;
+    left: 75%;
+}
+
+.bdelete{
+    position: absolute;
+    left: 81%;
+}
+
+.aligndel{
+    position: relative;
+    left: 23%;
+}
+.formdel{
+    height:200px;
+}
+
+.abrirlista{
+    position: relative;
+    left: 23%;
+}
+
+.voltar{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+
+.voltarlista{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+
+.addcand{
+    position: relative;
+    left: 23%;
+}
+
+.agradece{
+    text-align: center;
+    font-weight: bold;
+}
