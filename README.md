@@ -1,8 +1,8 @@
-# Projeto Pegho
+# Teste Técnico – Sistema de Cadastro de Currículos
 
-## Descrição
+## Objetivo do Teste
 
-O Projeto Pegho é uma aplicação web desenvolvida com Django que funciona como um sistema de cadastro e gerenciamento de currículos. A plataforma permite que candidatos preencham um formulário com suas informações pessoais, experiências profissionais e formação acadêmica. Além disso, recrutadores podem se autenticar no sistema para visualizar, atualizar e remover os perfis dos candidatos.
+Este projeto foi desenvolvido como uma solução para um teste técnico, com o objetivo de demonstrar habilidades em desenvolvimento web full-stack utilizando o framework Django. A tarefa consistia em criar um sistema de gerenciamento de currículos (CRUD - Create, Read, Update, Delete) com dois perfis de usuário: o candidato, que submete suas informações, e o recrutador, que gerencia e avalia os perfis cadastrados.
 
 ## Funcionalidades
 
