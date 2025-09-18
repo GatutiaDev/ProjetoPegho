@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como uma solução para um teste técnico, com o o
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projetopegho.git](https://github.com/seu-usuario/projetopegho.git)
+    git clone https://github.com/GatutiaDev/Teste_Tecnico.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
