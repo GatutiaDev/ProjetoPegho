@@ -56,6 +56,13 @@ Este projeto foi desenvolvido como uma solução para um teste técnico, com o o
     ```
 8.  Acesse a aplicação em `http://127.0.0.1:8000/`.
 
+## Acesso à Área do Recrutador
+
+Para avaliar as funcionalidades de gerenciamento, utilize as seguintes credenciais de acesso na tela de login:
+
+* **Usuário:** `admin`
+* **Senha:** `admin00`
+
 ## Estrutura do Projeto
 
 * `mysite/`: Contém as configurações do projeto Django.
